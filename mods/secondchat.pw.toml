@@ -1,0 +1,13 @@
+name = "SecondChat"
+filename = "SecondChat-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfAhrrW4/versions/fCfpfVt3/SecondChat-1.0.0.jar"
+hash-format = "sha512"
+hash = "c6f8c84999ba4902149ddfcfbcfcf543dc34ebd0c66d2aa4a49f4e59b8221df3fe6835367369d53f7ee34c9f33b61150020877752eb396e82e917b244c778d7c"
+
+[update]
+[update.modrinth]
+mod-id = "ZfAhrrW4"
+version = "fCfpfVt3"
