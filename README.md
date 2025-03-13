@@ -1,6 +1,5 @@
-# Cytooxien Modpack
-My personal set of mods I use when playing on Cytooxien and other Minecraft servers  
-Using [packwiz](https://packwiz.infra.link/) for maintining this modpack.
+# EzModpack
+My personal set of mods I use when playing on Minecraft servers.
 
 # Contributing
 Contributions are welcome! Please note that only quality-of-life (QoL) and client-side mods, known for being lightweight, are likely to be accepted.
@@ -19,14 +18,10 @@ Contributions are welcome! Please note that only quality-of-life (QoL) and clien
 - [Symbol Chat](https://github.com/replaceitem/symbol-chat)
 - [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus)
 
-# Links
-- [Modrinth](https://modrinth.com/modpack/cytooxien-modpack)
-- [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/cytooxien-modpack)
-
 # Installation
-Modpack files are generated with packwiz.  
-You can find the multimc, modrinth and curseforge pack files in the releases tab.
+Modpack files are generated with [packwiz](https://packwiz.infra.link/).  
+You can find the modrinth and curseforge pack files in [the latest release](https://github.com/FlorianMichael/EzModpack/releases).
 
 -----------------------
 
-NOT OFFICIAL CYTOOXIEN PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH CYTOOXIEN.
+This project is not an official Minecraft product and is not associated with Mojang Studios or Microsoft. All product and company names are trademarks or registered trademarks of their respective holders. Use of these names does not imply any affiliation or endorsement by them.
