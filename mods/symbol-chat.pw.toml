@@ -1,0 +1,13 @@
+name = "Symbol Chat"
+filename = "symbol-chat-1.21.4-1.2.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKvLVQMc/versions/a7atsqPu/symbol-chat-1.21.4-1.2.11.jar"
+hash-format = "sha512"
+hash = "25fa8ba5a18113ad782d69c03c54851810a390cbb471f14201a893b4b5791686dfd6c6baaa776af50d2e66291af96647362fa6d85622b778f5d46abd7fd1ca45"
+
+[update]
+[update.modrinth]
+mod-id = "NKvLVQMc"
+version = "a7atsqPu"
