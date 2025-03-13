@@ -1,4 +1,4 @@
-name = "Cytooxien Pack"
+name = "EzModpack"
 author = "FlorianMichael"
 version = "3.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9dddcf0fcac086a3a9ab1bf3c1ac60aa26a9826485107b1cd668d9fcacc29c03"
+hash = "dcc320fafd9345a8d9148192e89b2c36bcec56e0a7309cf4282a9b987cd5ae6a"
 
 [versions]
 fabric = "0.16.10"
