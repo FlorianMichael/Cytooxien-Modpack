@@ -2,77 +2,77 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/FUNDING.yml"
-hash = "101e9d923387b804cbb22ce567f053b03298ea3b0ef4939e3994b98710f54078"
+hash = "d4354f7f1f453cfbebe2ec83b26428348070a530f8dd38dd0dac739d0d05ff6f"
 
 [[files]]
 file = "LICENSE"
-hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
+hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
 
 [[files]]
 file = "README.md"
-hash = "7f98e0859208532cafbd9d52e934f170e65d8e3b7f16db72090551c6b857d3e7"
+hash = "70fa31757261566f8bc4c36a0a7f8cb3778e048b40a76e5fe5e799887b457483"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "f81cab39eece796d0349dda01d96fbcd49982ba2404a1ee9d74ad6b489ca4b0c"
+hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8b6ce173b24b1143e86b8c1c7471f39b92202e44c6fb4ee49e37c89c9f129480"
+hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
 metafile = true
 
 [[files]]
 file = "mods/held-item-info.pw.toml"
-hash = "433d02b6a9f648e76c2668576f839a7eb45bbde1f42d341abbac2464c4536ed6"
+hash = "f2f1f50c4ea90248c09bdd33c0cd3153fc00b35d0876f2bc128f570ca976131a"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cdec2c2b0f7fc5ab8453d5f622af281e768e8c070ddb3c9e3a683af127545627"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "213e956f482f1d9bb2ac62ec73c52eb55ca73c2bf34ae13649b56438ad69c6fc"
+hash = "5a67e5e6aa5c39c9920a3293d70ff2a5a7b90e34299483dce5933e512b63bbf0"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "dbcb0784f3238ae22539aa100166bb32d3f9aed93c825f15e01f20b8bd528f22"
+hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
 metafile = true
 
 [[files]]
 file = "mods/myconnectionmychoice.pw.toml"
-hash = "c453bd06372cdcc50f08456fcfdd3b8ea87d395f7abb167cb694ba2d741540a0"
+hash = "061f02c12e9227c25a3d9d31009bded46da5ec00bc5b13dc783a7c87002f587b"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "fb865ad9a54fd7e6fe6f3423066fe42bb1b2043f3e5ce090d53e99f2bcaba247"
+hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
 metafile = true
 
 [[files]]
 file = "mods/secondchat.pw.toml"
-hash = "7cca11cdee1fe5fa497219e5cc934ae6cfd579e92190dee77114917ae6b9a53d"
+hash = "1b10852595221d42fa5fb0ce76ccc063c6627fe04e98e6603e8d29b93ccf7f07"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "23f75aa3624b1378d1dd74cca6ba2bdbe74b969880830a96d1516dc76629496d"
+hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c2dbd2ace01c31f288a80142d688d8b2d04f552f3c7d6589a738c61cda55807f"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "6574bc50287d16b5c5de1b072532e751e96ca7c5cb355e662324c4d947c1db2e"
+hash = "f4785bb62274b8e1c7df6e5413290e7a94a145cff45ab87191c2921390992ac2"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "719b7a75c930f2fdd89e6a896bb3f239a6d6b23f0117b5f18b2ff892f79b32d3"
+hash = "d98ea69d9c0567fd8f5e7005ddee897b18e13229c521ef2488793a0267a034c8"
 metafile = true
