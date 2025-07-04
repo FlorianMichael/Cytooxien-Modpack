@@ -1,13 +1,13 @@
 name = "MyConnectionMyChoice"
-filename = "MyConnectionMyChoice-1.2.0.jar"
+filename = "MyConnectionMyChoice-1.4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/usz0zY5p/versions/k6VA77PY/MyConnectionMyChoice-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/usz0zY5p/versions/IiPUl5rk/MyConnectionMyChoice-1.4.0.jar"
 hash-format = "sha512"
-hash = "9c0953bb0d1a3d4cd0395f7549de454aa8fb33ee452b49dfcc409f0a440a3685c4979f01371e6c8c5908abe70dfeaf43413c6896cbe44d7b490a70b49fb8f7af"
+hash = "416183205309dffc8e9e6a6037dc391903c63bd1be43e2403e7b45fb42e35a402558e3441c51a8ca323162c41803ecf052f89bb8dfa2b0e473d8cb89eba18c85"
 
 [update]
 [update.modrinth]
 mod-id = "usz0zY5p"
-version = "k6VA77PY"
+version = "IiPUl5rk"

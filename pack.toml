@@ -1,13 +1,16 @@
 name = "EzModpack"
 author = "FlorianMichael"
-version = "4.0.0"
+version = "5.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "786359b2a7764745fcb8046dd1603c27a01373698a2a486b03dca101e32337c7"
+hash = "f2bf567c108e62b7478c10fb031ffbc86165fbb3aa1d9d0a02af3ca4ce7cf073"
 
 [versions]
-fabric = "0.16.13"
-minecraft = "1.21.5"
+fabric = "0.16.14"
+minecraft = "1.21.7"
+
+[options]
+acceptable-game-versions = ["1.21.6"]

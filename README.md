@@ -15,7 +15,6 @@ Contributions are welcome! Please note that only quality-of-life (QoL) and clien
 - [Second Chat](https://modrinth.com/mod/secondchat)
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric)
-- [Symbol Chat](https://github.com/replaceitem/symbol-chat)
 - [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus)
 
 # Installation
