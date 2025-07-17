@@ -30,7 +30,7 @@ hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "86cd6317d6f4069d6d0d3854e06f5e9fa3afa7950e2dacc258a7ef180aff0f9b"
+hash = "b2d7fafb12d3b04692a68a898f4452fa936f4130cb5480da3d57b018fa57292f"
 
 [[files]]
 file = "LICENSE"
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "256b3418c1af70c2ae837937a7d53f007cb12eb81eec57afbc03e33cdb43cef6"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
+hash = "aea959d6a56b5e97fcff3c53b674c6492e60e4934d7c087d4ed6e0578222a268"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+hash = "5de3cea92d91c0611dd8dec179846246932e28996b91966d5cc89c78a1df5f25"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/myconnectionmychoice.pw.toml"
-hash = "2a6327035008a92172840ebc04295442bb8df6eea6eecb82e6a3ae78a4f11747"
+hash = "313eaf39b7c274d901ea405de7d06b4670289035aa6c3a11b1e387f0ad9f8e93"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/secondchat.pw.toml"
-hash = "4c0372ff8f051384734d401078ce6bda81c5f30952a12b5a1dce68e1b4b81dd8"
+hash = "25b1cd344653133e4ceebea76734e086e6fde8b42c2a668d263ded304729b912"
 metafile = true
 
 [[files]]
@@ -97,5 +97,5 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "0f6f6ec1f52b7d344de2b1231b1282085c92849f51eae44034ce63ab0498ae8d"
+hash = "65b187f6fce313c83a35ee2a29919a3a3a57d71c8d26d7306e1891899cf92b8f"
 metafile = true
