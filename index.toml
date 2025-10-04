@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "256b3418c1af70c2ae837937a7d53f007cb12eb81eec57afbc03e33cdb43cef6"
+hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
 metafile = true
 
 [[files]]
@@ -57,32 +57,32 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "aea959d6a56b5e97fcff3c53b674c6492e60e4934d7c087d4ed6e0578222a268"
+hash = "ac9c6e202635d1ceccdf7171efd671196f02c1710ab99b2014e0139fdfaedfaa"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5de3cea92d91c0611dd8dec179846246932e28996b91966d5cc89c78a1df5f25"
+hash = "8943d352c205e18399c893fb7135dc756f53ecc08fb3fb4b4bac048a788f47d0"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
 
 [[files]]
 file = "mods/myconnectionmychoice.pw.toml"
-hash = "313eaf39b7c274d901ea405de7d06b4670289035aa6c3a11b1e387f0ad9f8e93"
+hash = "c2e11bfcf73223da048ab41b5d148a233d02b7ec6217fab324657f9ec7c897a1"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
+hash = "4762935a3ab92c3ad07f3eb43a7bb8f9997066c9f8e9c68745f286e395f7b51e"
 metafile = true
 
 [[files]]
 file = "mods/secondchat.pw.toml"
-hash = "25b1cd344653133e4ceebea76734e086e6fde8b42c2a668d263ded304729b912"
+hash = "c40d78e2b1b4c80bd8c2bc30bf44f1766b44a2e71f0eb8fa48c22f265cd770c9"
 metafile = true
 
 [[files]]
@@ -92,10 +92,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "65b187f6fce313c83a35ee2a29919a3a3a57d71c8d26d7306e1891899cf92b8f"
+hash = "29577c6ede74d48f277afda0892ac0f6ad810ffb806f9e408cba3aa7167f9f40"
 metafile = true
