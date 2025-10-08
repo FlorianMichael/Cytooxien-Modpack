@@ -1,12 +1,12 @@
 name = "EzModpack"
 author = "FlorianMichael"
-version = "6.0.0"
+version = "6.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aa9b2bcf3264bd69009f511347445df0215a0382d5a7b6aab4574d34c41de716"
+hash = "267b76bf1c47427061079813bce2dd3ff496bd6d68c5f06155c433a0d4bed288"
 
 [versions]
 fabric = "0.17.2"

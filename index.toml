@@ -5,34 +5,6 @@ file = ".github/FUNDING.yml"
 hash = "101e9d923387b804cbb22ce567f053b03298ea3b0ef4939e3994b98710f54078"
 
 [[files]]
-file = ".idea/Cytooxien-Modpack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/discord.xml"
-hash = "c17c4395506ccd2e4bf54abe2857af192efa2c95b21f00ea7a0e9829005ecc6a"
-
-[[files]]
-file = ".idea/libraries/EzModpack_4_0_0.xml"
-hash = "87e14f0ad080111d1594e736736b396da6ff44d446966fec1732dc58fdcecd04"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "fb629c81b50360ad9cc5f3515898ceded39fae44f57bd33a8873b1d821cf535a"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "3c344b49af7210ece5c9982c17366c6d5cf78eca56a816cecde323a257f6f896"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "b2d7fafb12d3b04692a68a898f4452fa936f4130cb5480da3d57b018fa57292f"
-
-[[files]]
 file = "LICENSE"
 hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
 
@@ -57,7 +29,7 @@ metafile = true
 
 [[files]]
 file = "mods/held-item-info.pw.toml"
-hash = "c740306a2d1a8559d45a6c763a65869b95933b93326e5f308d7a0c1b8f22395d"
+hash = "a8d1bdf01f5230f83820de1a99c0322437f60d585e53bf6a070ee4d7d1a0d667"
 metafile = true
 
 [[files]]
