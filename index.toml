@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48a71da0cd96100ccc239fa88fb6280094f0a0b1a555a2bdcc2e58dc2d7ebcc5"
+hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ac9c6e202635d1ceccdf7171efd671196f02c1710ab99b2014e0139fdfaedfaa"
+hash = "5f40e2db6037f733566c81e8f11ca3c425d738eb5a182658691f36d041b5df40"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/myconnectionmychoice.pw.toml"
-hash = "c2e11bfcf73223da048ab41b5d148a233d02b7ec6217fab324657f9ec7c897a1"
+hash = "313eaf39b7c274d901ea405de7d06b4670289035aa6c3a11b1e387f0ad9f8e93"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/secondchat.pw.toml"
-hash = "c40d78e2b1b4c80bd8c2bc30bf44f1766b44a2e71f0eb8fa48c22f265cd770c9"
+hash = "25b1cd344653133e4ceebea76734e086e6fde8b42c2a668d263ded304729b912"
 metafile = true
 
 [[files]]
@@ -97,5 +97,5 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "29577c6ede74d48f277afda0892ac0f6ad810ffb806f9e408cba3aa7167f9f40"
+hash = "8861c0827d996f379eb2ed607d39f8e1357c06737f52523ce4510e3126baedcc"
 metafile = true
