@@ -1,13 +1,13 @@
 name = "SecondChat"
-filename = "SecondChat-1.3.1.jar"
+filename = "SecondChat-1.3.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZfAhrrW4/versions/KrLhOogI/SecondChat-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/ZfAhrrW4/versions/Wd6WAeNL/SecondChat-1.3.3.jar"
 hash-format = "sha512"
-hash = "b750d1df9ea1d5749a9d63fc1b8b72626b3a2b1b9386713d21ba73815d7d033ec85f388b125c747a2ddaeddbc74dd8eaf50389a67d3503eed64f8d2124b825c5"
+hash = "3537806b9b3ca122ba450d955b8df017619c4e0df4b711ca41abc89cf83219f0cd55997e66e829e74d826cdac92f4c9949b0fec5720846893912860b9c16c5c1"
 
 [update]
 [update.modrinth]
 mod-id = "ZfAhrrW4"
-version = "KrLhOogI"
+version = "Wd6WAeNL"

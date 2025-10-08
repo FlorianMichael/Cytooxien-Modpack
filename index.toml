@@ -46,6 +46,11 @@ hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
 
 [[files]]
+file = "mods/dialogfix.pw.toml"
+hash = "4b13ae31a46cf01aee9a261183bb5feb1feb4448d1db70082c43ab9eb47edba3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "79625467f94812a83eb6fbf4e1d3884418937cc5b07fc708d05b7ab11dac16a5"
 metafile = true
@@ -72,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/myconnectionmychoice.pw.toml"
-hash = "313eaf39b7c274d901ea405de7d06b4670289035aa6c3a11b1e387f0ad9f8e93"
+hash = "09208e121a6f116c8e88dca70315f75ed61da9266bd96f07a43db26b56604a55"
 metafile = true
 
 [[files]]
@@ -82,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/secondchat.pw.toml"
-hash = "25b1cd344653133e4ceebea76734e086e6fde8b42c2a668d263ded304729b912"
+hash = "497558a0c16ca4db619d6584d1fae90a868548d189072fc81099f2a679a2b68a"
 metafile = true
 
 [[files]]
