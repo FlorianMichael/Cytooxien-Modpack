@@ -16,6 +16,9 @@ Contributions are welcome! Please note that only quality-of-life (QoL) and clien
 - [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 - [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric)
 - [ViaFabricPlus](https://github.com/ViaVersion/ViaFabricPlus)
+- [Boat Item View](https://github.com/50ap5ud5/BoatItemView)
+- [FerriteCore](https://github.com/malte0811/FerriteCore)
+- [Simple Voice Chat](https://github.com/henkelmax/simple-voice-chat)
 
 # Installation
 Modpack files are generated with [packwiz](https://packwiz.infra.link/).  

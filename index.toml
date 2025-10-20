@@ -18,6 +18,11 @@ hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "6d717e11f5a11194004d8879b5c1e46448394855211ce8ac1937ae40895f2c27"
+metafile = true
+
+[[files]]
 file = "mods/dialogfix.pw.toml"
 hash = "4b13ae31a46cf01aee9a261183bb5feb1feb4448d1db70082c43ab9eb47edba3"
 metafile = true
@@ -25,6 +30,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b908cccddb4f18a5f570a0201b7a6f7f6775f9fcb0dcd0a1a0d7600ff1d7c7f3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
@@ -60,6 +70,11 @@ metafile = true
 [[files]]
 file = "mods/secondchat.pw.toml"
 hash = "497558a0c16ca4db619d6584d1fae90a868548d189072fc81099f2a679a2b68a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
 metafile = true
 
 [[files]]
