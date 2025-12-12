@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/FUNDING.yml"
-hash = "101e9d923387b804cbb22ce567f053b03298ea3b0ef4939e3994b98710f54078"
-
-[[files]]
-file = "LICENSE"
-hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
-
-[[files]]
-file = "README.md"
-hash = "b09d388b480aa3f94f27305f22392e4a470c75aad05347cfa70428fe95567579"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
 metafile = true
