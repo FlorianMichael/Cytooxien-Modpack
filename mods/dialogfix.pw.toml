@@ -1,13 +1,13 @@
 name = "DialogFix"
-filename = "DialogFix-1.0.1.jar"
+filename = "DialogFix-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/M2EOPme4/versions/Q25ZyQdA/DialogFix-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/M2EOPme4/versions/mWebz1MO/DialogFix-1.0.2.jar"
 hash-format = "sha512"
-hash = "f9f0ea9666a3f67c8ae5b2eefda607079b38e1b3fe1ddf0011a5d685e51f232e4f38459bc4bd79182c316bb1e54e59fbe382883d2dbdafd4c8ca735371c9066e"
+hash = "37f004fea913c99f779db84f434fb04b9a4c2bb4762838f443b4b8a188d3b91befcbce7f945ef6f154aad066e8bb37d791e061cd545b7bcfedefa2d5c20ead6b"
 
 [update]
 [update.modrinth]
 mod-id = "M2EOPme4"
-version = "Q25ZyQdA"
+version = "mWebz1MO"
