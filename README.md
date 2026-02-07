@@ -22,7 +22,7 @@ Contributions are welcome! Please note that only quality-of-life (QoL) and clien
 
 # Installation
 Modpack files are generated with [packwiz](https://packwiz.infra.link/).  
-You can find the modrinth and curseforge pack files in [the latest release](https://github.com/FlorianMichael/EzModpack/releases).
+You can find the modrinth and curseforge pack files in [the latest release](https://github.com/florianreuth/EzModpack/releases).
 
 -----------------------
 
