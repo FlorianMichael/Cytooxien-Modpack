@@ -2,80 +2,80 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
 metafile = true
 
 [[files]]
 file = "mods/boat-item-view.pw.toml"
-hash = "6d717e11f5a11194004d8879b5c1e46448394855211ce8ac1937ae40895f2c27"
+hash = "9a4701caa12b43b3d05a7f1a1e0586b06fb17144f247414f4f9174b43d85bc20"
 metafile = true
 
 [[files]]
 file = "mods/dialogfix.pw.toml"
-hash = "f158e378109f35c4f3ceeecdc74f61db60dd66cf08815cc53fdb7ce9a623f3e5"
+hash = "17d7870d7ec8c0362690a064e40733c022b7d481e6239eccbe9845cf420ec782"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cf6edd71a012b437bca4bcac93c44d1109632db31b5f638d28b58fa77cf771b5"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
 file = "mods/held-item-info.pw.toml"
-hash = "a8d1bdf01f5230f83820de1a99c0322437f60d585e53bf6a070ee4d7d1a0d667"
+hash = "62b4398ba178efecba4aced610039b1003a8cc82ce5931e3fe0f6541f69a6870"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dc930299b4c11cbd31712a3b91231bac4be1f34d00a464bfbe1a0674f5187d11"
+hash = "d9f54bcf75d036c25ebe636abb7ffa7c2d21c3601fec13b0fa2cc8916120affa"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "53ca4dd806e6ae6b3d72d7707ff59c30bb6b07b7f9c2b0a2a82534c0ecfb78c4"
+hash = "0e3ea55d9e42a29bc026e4abe66a4dbe57de18e61127c162a51dad744eb93795"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
 file = "mods/myconnectionmychoice.pw.toml"
-hash = "4b0ebcc09dd155e82f1e2a59a75f121ba61f2daed3c11415583b1f6df5450c52"
+hash = "d5adc3d2a2286a48cc08f311e44ff02ec6cab62a5c51c2fa4e7e508f9f74b91a"
 metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
 file = "mods/secondchat.pw.toml"
-hash = "e5538c219d2f490a854c82230e6c71ef9dd9bf53368b616cd0d54877cc420643"
+hash = "e0479afa5ee5172af5bfb1d38fe226bf9127e661148c8b8b6ba882b96f3014e9"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4d801184db14d95a0084083f61c6331e2c1090203b5639809ea1471effc9417d"
+hash = "04185c12844c8da7eb28121a0a6f43ad077751de120eca5fa2a2ab93b8e7a2d3"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "382ad4f938be83c05d9ae6dc7bf24581f54173f5345c485abf3e3ff7618bb59e"
+hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f61bd9fbfa3fcc5d8267b5cbe6af08c93385752ddc6e6b74df0fbcfd5747e413"
+hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
 metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "d23deb48fa3726706619a53f55948bad36a7f03af43d1a9cc21da2239f14b066"
+hash = "7eb6db89af1718387e764fc9a22d9971a0af14ed89c243a98a334b9523d56b15"
 metafile = true
